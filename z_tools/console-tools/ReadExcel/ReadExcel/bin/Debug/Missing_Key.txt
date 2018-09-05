@@ -1,0 +1,50 @@
+=========== language_us$start
+30101016 名字重复，已被其他玩家捷足，换个名字吧 sheet_name: language_zh$
+35003046 系统检测到当前设备不属于推荐机型，游戏可能无法以最佳效果进行展示，敬请谅解。我们将不断进行优化，满足更多玩家需求。 sheet_name: language_zh$
+30101021 取消 sheet_name: language_zh$
+30301012 准备 sheet_name: language_zh$
+11011000 恋世 sheet_name: language_zh$
+11011101 光翼 sheet_name: language_zh$
+11011201 治愈 sheet_name: language_zh$
+11011301 祈愿 sheet_name: language_zh$
+11013101 踏浪前行 sheet_name: language_zh$
+11013201 银瓶乍破 sheet_name: language_zh$
+11013301 波涛汹涌 sheet_name: language_zh$
+110110000 天使眷恋尘世，死亡后可以继续释放技能一段时间 sheet_name: language_zh$
+110110001 天使眷恋尘世，死亡后变成灵体，同时刷新12技能的CD，在接下来的5秒钟内可以释放12技能 sheet_name: language_zh$
+110111010 释放净化之光，触碰到的友军受到治疗，敌人受到伤害 sheet_name: language_zh$
+110111011 释放净化之光，触碰到的友军受到[damage,11011101][color,255:0:255]治疗[color,reset]，触碰到的敌人受到[damage,11011102][color,255:0:255]魔法伤害[color,reset] sheet_name: language_zh$
+110112010 释放一道治疗链，跳跃至附近的友军，治疗的同时还将对附近的敌人造成伤害 sheet_name: language_zh$
+110112011 释放一道治疗链治疗自己，并且跳跃至附近的友军，最多弹跳5次。每个被链接的友军受到[damage,11011201][color,255:0:255]治疗[color,reset]，并且对周围的敌人造成[damage,11011202][color,255:0:255]魔法伤害[color,reset]。每个友方单位只会被链接一次，敌人可以受到多次伤害 sheet_name: language_zh$
+110113010 祈愿后短暂延迟，使范围内阵亡的友方角色重返战场战斗，持续5秒 sheet_name: language_zh$
+110113011 天使对附近已经阵亡的友军祈愿，3秒后友军的灵体重返战场继续战斗，持续5秒 sheet_name: language_zh$
+110131010 向前冲去并通过海洋的力量在脚下建立一座水桥。 sheet_name: language_zh$
+110131011 向前冲去并通过海洋的力量在脚下建立了一座水桥，其他英雄可以借助这座水桥到达波塞西所到之处，通过海洋之力帮助大家进行位移、穿越地形 sheet_name: language_zh$
+110132010 使用召唤出一个水球对目标和目标周围造成伤害。 sheet_name: language_zh$
+110132011 使用召唤出一个水球对目标造成伤害，由于海洋的力量，击中后的水球碎裂后会继续溅射附近的敌人 sheet_name: language_zh$
+110133010 举起三叉戟召唤海洋的力量，随后身后会召唤出一道巨浪向他前方涌进。 sheet_name: language_zh$
+110133011 举起三叉戟召唤海洋的力量，随后身后会召唤出一道巨浪向他前方涌进，被波及的敌人会受到伤害并被减速，在海浪的末端会重重的将敌人击飞 sheet_name: language_zh$
+21312 巨人克星 sheet_name: language_zh$
+23311 勇气勋章 sheet_name: language_zh$
+2131200 【巨人克星】：在对抗生命值高于你的敌方英雄时，给予你伤害加成，每高于你500点血，增加1%的物理攻击力伤害，最多提升10% sheet_name: language_zh$
+2331100 【勇气】：增加友方10%的物理护甲，降低敌方10%的物理护甲 sheet_name: language_zh$
+2610100 【补偿】：如果自己的经验或经济是己方最低，每3秒会额外获得10点经验或金币 sheet_name: language_zh$
+2620100 【光环】：提升周围800范围友军4*英雄等级物理攻击和8*英雄等级法术攻击\n【补偿】：如果自己的经验或经济是己方最低，每3秒会额外获得10点经验或金币 sheet_name: language_zh$
+2630100 【光环】：提升周围800范围友军6*英雄等级物理攻击和10*英雄等级点法术攻击\n【补偿】：如果自己的经验或经济是己方最低，每3秒会额外获得10点经验或金币 sheet_name: language_zh$
+2131201 【巨人克星】 sheet_name: language_zh$
+2331101 【勇气】 sheet_name: language_zh$
+2610101 【补偿】 sheet_name: language_zh$
+2620101 【补偿】【光环】 sheet_name: language_zh$
+2630101 【补偿】【光环】 sheet_name: language_zh$
+40038 额外伤害比例 sheet_name: language_zh$
+17001000 获得变龙术 sheet_name: language_zh$
+17000400 获得变羊术 sheet_name: language_zh$
+17000500 获得吹风术 sheet_name: language_zh$
+17000600 获得嗜血术 sheet_name: language_zh$
+17000700 获得冰箱术 sheet_name: language_zh$
+17000800 获得隐身术 sheet_name: language_zh$
+=========== end
+=========== language_zh$start
+30101023 Sure to join room? sheet_name: language_us$
+30303012 Ready sheet_name: language_us$
+=========== end

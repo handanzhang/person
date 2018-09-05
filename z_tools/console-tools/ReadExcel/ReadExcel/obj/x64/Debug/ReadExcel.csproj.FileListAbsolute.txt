@@ -1,0 +1,6 @@
+D:\console-tools\ReadExcel\ReadExcel\bin\x64\Debug\ReadExcel.exe
+D:\console-tools\ReadExcel\ReadExcel\bin\x64\Debug\ReadExcel.pdb
+D:\console-tools\ReadExcel\ReadExcel\obj\x64\Debug\ReadExcel.csprojResolveAssemblyReference.cache
+D:\console-tools\ReadExcel\ReadExcel\obj\x64\Debug\ReadExcel.csproj.CoreCompileInputs.cache
+D:\console-tools\ReadExcel\ReadExcel\obj\x64\Debug\ReadExcel.exe
+D:\console-tools\ReadExcel\ReadExcel\obj\x64\Debug\ReadExcel.pdb

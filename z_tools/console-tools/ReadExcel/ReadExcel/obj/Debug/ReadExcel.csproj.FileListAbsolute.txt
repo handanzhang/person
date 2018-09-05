@@ -1,0 +1,5 @@
+D:\console-tools\ReadExcel\ReadExcel\bin\Debug\ReadExcel.exe
+D:\console-tools\ReadExcel\ReadExcel\bin\Debug\ReadExcel.pdb
+D:\console-tools\ReadExcel\ReadExcel\obj\Debug\ReadExcel.csproj.CoreCompileInputs.cache
+D:\console-tools\ReadExcel\ReadExcel\obj\Debug\ReadExcel.exe
+D:\console-tools\ReadExcel\ReadExcel\obj\Debug\ReadExcel.pdb
