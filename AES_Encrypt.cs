@@ -26,6 +26,8 @@ namespace ConsoleApp2
             {
                 file = args[0];
             }
+            
+            Console.WriteLine("support keyboard d (decrypt) e(encrypt) q(quit)");
 
             while (true)
             {
