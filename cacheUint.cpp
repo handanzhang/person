@@ -1,4 +1,6 @@
 // https://github.com/stevengj/nlopt/blob/master/src/util/sobolseq.c
+// 补充一个姿势， 负数的二进制 表示为 其绝对值的二进制+1
+
 
 using namespace std;
 typedef unsigned int unit;
